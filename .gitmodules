@@ -1,3 +1,6 @@
 [submodule "n11-bootcamp-homeworks"]
 	path = n11-bootcamp-homeworks
 	url = https://github.com/BurakTy/n11-bootcamp-homeworks.git
+[submodule "first-homework-BurakTy"]
+	path = first-homework-BurakTy
+	url = https://github.com/n11-TalentHub-Java-Bootcamp/first-homework-BurakTy.git
