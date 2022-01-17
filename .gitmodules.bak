@@ -7,3 +7,6 @@
 [submodule "third-homework-BurakTy"]
 	path = third-homework-BurakTy
 	url = https://github.com/n11-TalentHub-Java-Bootcamp/third-homework-BurakTy.git
+[submodule "fourth-homework-BurakTy"]
+	path = fourth-homework-BurakTy
+	url = https://github.com/BurakTy/n11-bootcamp-homeworks
